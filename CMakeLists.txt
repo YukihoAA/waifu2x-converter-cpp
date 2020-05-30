@@ -4,7 +4,7 @@ enable_language(CXX)
 project(waifu2xcpp)
 
 include("CMakeDependentOption")
-include("CheckIncludeFileCXX")
+include("CheckIncludeFileCXX") 
 
 ### Options
 
